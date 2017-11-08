@@ -13,7 +13,7 @@ import registerServiceWorker from './registerServiceWorker';
 //     </div>
 //   );
   ReactDOM.render(
-    
+    <App/>,
     document.getElementById('root2')
   );
 // }
